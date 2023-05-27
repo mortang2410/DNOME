@@ -1,3 +1,11 @@
+.appMount-2yBXZl {
+  background-image: url('https://i.imgur.com/a3r4LTx.jpg');
+  background-color: rgba(9, 10, 51, 0);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
 .theme-dark,
 .theme-light {
   --text-link: var(--dnome-accent-soft);
@@ -27,7 +35,6 @@
   --text-normal: #ffffff;
   --background-primary: #1E1E1E;
   --background-secondary: #242424;
-  --background-image: url('https://i.imgur.com/a3r4LTx.jpg');
   --background-secondary-alt: #242424;
   --background-tertiary: #242424;
   --background-accent: #3584e4;
